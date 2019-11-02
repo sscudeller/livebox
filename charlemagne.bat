@@ -9,6 +9,8 @@ REM This scripts will try to map a network drive using the same letter. Hence
 REM you (or your scripts/backup etc.) will be able to use it in more friendful
 REM way.
 REM 
+REM WARNING : use at your own risks...
+REM 
 REM Author: S. Scudeller (sscudeller@gmail.com)
 REM Date: 14/10/2018
 
